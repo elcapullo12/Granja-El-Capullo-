@@ -39,10 +39,6 @@
     <h2>Nuestros Productos</h2>
     <div class="productos">
       <div class="producto">
-        <img src="https://via.placeholder.com/250x180?text=Huevo+Rojo" alt="Huevo Rojo">
-        <h3>Huevo Rojo</h3>
-        <p>Charola con 30 piezas. Ideal para consumo diario.</p>
-      </div>
       <div class="producto">
         <img src="https://via.placeholder.com/250x180?text=Huevo+Blanco" alt="Huevo Blanco">
         <h3>Huevo Blanco</h3>
